@@ -48,4 +48,4 @@ to keep abreast of latest developments in club activities.
 ## Events
 - Linux Installation Drive : Lab 332, 30/11/23
 ## Collab. Events
-- Intro. to Linux and Git  : Lab 333, 22/09/23
+- Intro. to Linux and Git  : Lab 333, 22/09/23 (with GDSC, BPDC)
